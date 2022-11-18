@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Lato', sans-serif;
+}
+
+
+header {
+  background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
+  padding: 1.25rem;
+  color: #fff;
+  display: flex;
+  align-items: center;
+}
+
+.troll-face {
+  height: 1.9rem;
+  width: 1.6rem;
+  margin-right: .375rem;
+}
+
+.title {
+  margin-right: auto;
+}
